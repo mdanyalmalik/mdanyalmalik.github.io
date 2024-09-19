@@ -15,7 +15,7 @@ website: danyalmalik.net
 darkmode: true
 
 # Social links
-# twitter_username:
+twitter_username: _danyalmalik
 github_username: mdanyalmalik
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -31,12 +31,12 @@ linkedin_username: mdanyalmalik
 
 # Additional icon links
 additional_links:
-  - title: Blog
-    icon: fas fa-globe
-    url: https://blog.danyalmalik.net/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  # - title: CV
+  #   icon: fa fa-file-text
+  #   url: https://danyalmalik.net/assets/academic_cv.pdf/
+  # - title: Blog
+  #   icon: fa fa-book
+  #   url: https://blog.danyalmalik.net/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,7 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Danyal and I'm a Computer Science Senior at Lahore University of Management Sciences (LUMS). I'm passionate about Machine Learning, particularly TTS Systems, Reinforcement Learning, Multi-Modal LLMs and NLP. I'm currently working on a project that involves evaluating TTS outputs using a multi-modal LLM. For more details about my work, please refer to my CV.
+  Hi, my name's Danyal and I'm a Computer Science Senior at Lahore University of Management Sciences (LUMS). I'm passionate about Machine Learning, particularly Speech, TTS Systems, Multi-Modal LLMs, Reinforcement Learning and Multi-Agent Systems. For more details about my work, please refer to my CV.
+
+  Important links:
+
+  - [My CV](https://danyalmalik.net/assets/academic_cv.pdf)
+
+  - [Blog](https://blog.danyalmalik.net/)
 
 content:
   # - title: Projects # Title for the section
@@ -111,7 +117,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
