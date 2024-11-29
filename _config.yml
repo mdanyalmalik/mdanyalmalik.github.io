@@ -56,6 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   - [Blog](https://blog.danyalmalik.net/)
 
+  - [Google Scholar](https://scholar.google.com.pk/citations?user=D5jRC5YAAAAJ&hl=en)
+
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
