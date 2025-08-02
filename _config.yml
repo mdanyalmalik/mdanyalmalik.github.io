@@ -46,17 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/graduation.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Danyal and I'm a Computer Science Senior at Lahore University of Management Sciences (LUMS). I'm passionate about Machine Learning, particularly Speech, TTS Systems, Multi-Modal LLMs, Reinforcement Learning and Multi-Agent Game Theory. For more details about my work, please refer to my CV.
-
-  Important links:
-
-  - [My CV](https://danyalmalik.net/assets/academic_cv.pdf)
-
-  - [Blog](https://blog.danyalmalik.net/)
-
-  - [Google Scholar](https://scholar.google.com.pk/citations?user=D5jRC5YAAAAJ&hl=en)
+  Hi, my name's Danyal. I graduated with a bachelor's degree in computer science from LUMS (Lahore University of Mangement Sciences), with a minor in math. I am now doing a master's degree in computer science from the University of Oxford. I am interested in Reinforcement Learning, Multi-Agent Game Theory, Audio (TTS, Spoof Detection) and AI in general.
 
 content:
   # - title: Projects # Title for the section
