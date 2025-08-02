@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: M. Danyal Malik
-title: Computer Science Student
-email: 25100080@lums.edu.pk
-website: danyalmalik.net
+name: Danyal Malik
+title: MS CS @ Oxford
+email: danyal.malik@st-annes.ox.ac.uk
+# website: danyalmalik.net
 
 # Dark Mode (true/false/never)
 darkmode: true
