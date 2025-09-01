@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/graduation.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Danyal. I graduated with a bachelor's degree in computer science from LUMS (Lahore University of Mangement Sciences), with a minor in math. I am now doing a master's degree in computer science from the University of Oxford. I am interested in Reinforcement Learning, Multi-Agent Game Theory, Audio (TTS, Spoof Detection) and AI in general.
+  Hi, my name's Danyal. I graduated with a bachelor's degree in computer science from LUMS (Lahore University of Mangement Sciences) and a minor in math. I am now doing a master's degree in computer science from the University of Oxford. I am interested in Reinforcement Learning, Multi-Agent Game Theory, Audio (TTS, Spoof Detection) and AI in general.
 
 content:
+  # leaving in for formatting
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
