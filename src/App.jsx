@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import { FaTwitter, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaTwitter, FaGithub, FaLinkedin, FaNewspaper } from "react-icons/fa";
+import { FaPenClip } from 'react-icons/fa6';
 
 export default function App() {
   return (
@@ -17,9 +18,19 @@ export default function App() {
         <section className="flex items-center justify-center">
           <div className="flex justify-center space-x-20 text-5xl md:pr-10">
             <a
+              href="https://blog.danyalmalik.net/"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Check out my blog"
+              className="hover:text-[#c79765] transition"
+            >
+              <FaPenClip />
+            </a>
+            <a
               href="https://twitter.com/_danyalmalik"
               target="_blank"
               rel="noopener noreferrer"
+              title="Follow me on Twitter"
               className="hover:text-[#c79765] transition"
             >
               <FaTwitter />
@@ -28,6 +39,7 @@ export default function App() {
               href="https://github.com/mdanyalmalik"
               target="_blank"
               rel="noopener noreferrer"
+              title="Github Profile"
               className="hover:text-[#c79765] transition"
             >
               <FaGithub />
@@ -36,6 +48,7 @@ export default function App() {
               href="https://linkedin.com/in/mdanyalmalik"
               target="_blank"
               rel="noopener noreferrer"
+              title="Connect with me on Linkedin"
               className="hover:text-[#c79765] transition"
             >
               <FaLinkedin />
