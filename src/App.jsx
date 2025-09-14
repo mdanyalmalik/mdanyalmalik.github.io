@@ -16,7 +16,7 @@ export default function App() {
         </div>
         {/* SOCIAL LINKS */}
         <section className="flex items-center justify-center">
-          <div className="flex justify-center space-x-20 text-5xl md:pr-10">
+          <div className="flex justify-center space-x-15 text-5xl md:pr-10">
             <a
               href="https://blog.danyalmalik.net/"
               target="_blank"
