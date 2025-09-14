@@ -9,8 +9,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "add-domain": "echo \"danyalmalik.net\" > dist/CNAME",
+    "deploy": "npm run add-domain && gh-pages -d dist",
+    "bd": "npm run build && npm run deploy"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
