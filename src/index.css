@@ -6,10 +6,12 @@ body,
   margin: 0 !important;
   padding: 0 !important;
   background-color: black;
+  min-height: 100%;
 }
 
 #root {
   width: 100%;
+  min-height: 100svh;
 }
 
 a {
