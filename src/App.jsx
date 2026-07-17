@@ -61,21 +61,23 @@ export default function App() {
 
         <section className="bio-panel" aria-label="About Danyal Malik">
           <p className="bio-copy">
-            Hi, my name's Danyal. I graduated with a bachelor's degree in
-            computer science from LUMS (Lahore University of Management Sciences)
-            and a minor in math. I am now doing a master's degree in computer
-            science from the University of Oxford. I am interested in
-            Reinforcement Learning, Multi-Agent Game Theory, Audio (TTS, Spoof
-            Detection) and AI in general.
+            Hi, my name's Danyal. I am an MSc Advanced Computer Science student
+            at the University of Oxford, with a bachelor's degree in computer
+            science and a minor in mathematics from LUMS. My work focuses on
+            machine learning, reinforcement learning, multi-agent systems, and
+            game theory, with research experience in cooperation and reputation
+            in multi-agent settings, audio deepfake detection, and TTS evaluation.
+            I also enjoy building applied AI systems, from geospatial models for
+            water-quality prediction to efficient OCR and forecasting pipelines.
           </p>
         </section>
       </main>
 
       <footer className="site-footer">
         <a
-          href="mailto:danyal.malik@st-annes.ox.ac.uk"
+          href="mailto:danyalm2002@gmail.com"
         >
-          danyal.malik@st-annes.ox.ac.uk
+          danyalm2002@gmail.com
         </a>
       </footer>
     </div>
